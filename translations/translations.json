@@ -1,30 +1,30 @@
 {
   "ok": {
-    "no":"ok",
-    "en": "ok"
+    "norwegian":"ok",
+    "english": "ok"
   },
     "error": {
-        "no":"error",
-        "en": "error"
+        "norwegian":"error",
+        "english": "error"
     },
     "not_found": {
-        "no":"not_found",
-        "en": "not_found"
+        "norwegian":"not_found",
+        "english": "not_found"
     },
     "not_authorized": {
-        "no":"not_authorized",
-        "en": "not_authorized"
+        "norwegian":"not_authorized",
+        "english": "not_authorized"
     },
     "invalid": {
-        "no":"invalid",
-        "en": "invalid"
+        "norwegian":"invalid",
+        "english": "invalid"
     },
     "missing": {
-        "no":"missing",
-        "en": "missing"
+        "norwegian":"missing",
+        "english": "missing"
     },
     "exists": {
-        "no":"exists",
-        "en": "exists"
+        "norwegian":"exists",
+        "english": "exists"
     }
 }
