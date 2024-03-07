@@ -1,8 +1,8 @@
 {
-  "OK": "Ok",
-  "CANCEL": "annuller",
-  "CLOSE": "lukK",
-  "BACK": "Tilbake",
-  "NEXT": "Neste",
-  "FINISH": "Fullfør"
+	"BACK": "Tilbake",
+	"CANCEL": "Annuller",
+	"CLOSE": "Lukk",
+	"FINISH": "Fullfør",
+	"NEXT": "Neste",
+	"OK": "Ok"
 }
