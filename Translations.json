@@ -1,0 +1,30 @@
+{
+  "ok": {
+    "no":"ok",
+    "en": "ok"
+  },
+    "error": {
+        "no":"error",
+        "en": "error"
+    },
+    "not_found": {
+        "no":"not_found",
+        "en": "not_found"
+    },
+    "not_authorized": {
+        "no":"not_authorized",
+        "en": "not_authorized"
+    },
+    "invalid": {
+        "no":"invalid",
+        "en": "invalid"
+    },
+    "missing": {
+        "no":"missing",
+        "en": "missing"
+    },
+    "exists": {
+        "no":"exists",
+        "en": "exists"
+    }
+}
