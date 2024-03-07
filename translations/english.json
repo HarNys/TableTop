@@ -1,8 +1,8 @@
 {
-  "OK": "Ok",
-  "CANCEL": "Cancel",
-  "CLOSE": "Close",
-  "BACK": "Back",
-  "NEXT": "Next",
-  "FINISH": "Finish"
+	"BACK": "Back",
+	"CANCEL": "Cancel",
+	"CLOSE": "Close",
+	"FINISH": "Finish",
+	"NEXT": "Next",
+	"OK": "Ok"
 }
